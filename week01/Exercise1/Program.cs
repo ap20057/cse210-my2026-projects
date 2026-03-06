@@ -1,5 +1,5 @@
 using System;
-//updates.
+//resubmission of the exercise.
 class Program
 {
     static void Main(string[] args)
